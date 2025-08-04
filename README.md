@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anri</h1>
-<h3 align="center">Beginner Frontend Web Developer | Learning to Build Beautiful & Responsive Websites</h3>
+<h1 align="left">Hi 👋, I'm Anri</h1>
+<h3 align="left">Beginner Frontend Web Developer | Learning to Build Beautiful & Responsive Websites</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anribeg&label=Profile%20views&color=0e75b6&style=flat" alt="anribeg" />
