@@ -4,8 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=350px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
-"/>
+<img align="right" width=350px alt="mario" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 Hey there! I'm Anri — a self-taught and passionate beginner frontend web developer from Georgia 🇬🇪.
 
