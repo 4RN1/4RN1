@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/4RN1">4RN1</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/4RN1">4RN1</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <br>
 
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px>&nbsp;***About me***
 
-<img align="right" width=350px alt="mario" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQzMTIxOTcsIm5iZiI6MTc1NDMxMTg5NywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA0VDEyNTEzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWExNjViNGMyOTU1MjAyZGNiODMyYWI2MGQ2MWZmNTY0ZWE4OTliYTQzYTc5ZDY4ZjU0NzA1NDg4ZjE0NmRiNzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8XkdESod9ZvxYNVgRgeJFyUc6XmO-xueAuapDIEV3JY"/>
+<img align="right" width=350px alt="guy" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoanJsdHR3MWFzMXpnNWp2cG52cGgzMnM2NWFudWZuNTV6Zmd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 Hey there! I'm Anri — a self-taught and passionate beginner frontend web developer from Georgia 🇬🇪.
 
@@ -17,12 +17,15 @@ Hey there! I'm Anri — a self-taught and passionate beginner frontend web devel
 
 I'm here to build, break, learn, and grow 💻🌱
 
-<!-- Profile Trophies -->
+
 
 <br> 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
-***Social Links*** -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nYWRvc3kydjQ1MzIwcWtpc2d0ZDY2Z3hnODhvczJnN3AxczRncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" alt="phone" width="80">***Social Links*** -->
 
 <div align="center">
 
@@ -38,7 +41,7 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="80">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -62,7 +65,7 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
