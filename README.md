@@ -3,7 +3,7 @@
 <br>
 
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 80px>&nbsp;***About me***
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>&nbsp;***About me***
 
 <img align="right" width=350px alt="guy" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoanJsdHR3MWFzMXpnNWp2cG52cGgzMnM2NWFudWZuNTV6Zmd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
@@ -25,7 +25,7 @@ I'm here to build, break, learn, and grow 💻🌱
 <br>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nYWRvc3kydjQ1MzIwcWtpc2d0ZDY2Z3hnODhvczJnN3AxczRncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" alt="phone" width="80">***Social Links*** -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nYWRvc3kydjQ1MzIwcWtpc2d0ZDY2Z3hnODhvczJnN3AxczRncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" alt="phone" width="40">***Social Links*** -->
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="80">&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -65,7 +65,7 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="80">&nbsp;***Github Stats***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
