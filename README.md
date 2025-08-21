@@ -1,13 +1,13 @@
 
 
 
-<h1><b>Hi there, I'm </b><a href="https://github.com/4RN1">4RN1</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
+# Hi there, I'm </b><a href="https://github.com/4RN1">4RN1</a> 
 <br>
 
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>&nbsp;***About me***
+***About me***
 
-<img align="right" width=350px alt="guy" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFoanJsdHR3MWFzMXpnNWp2cG52cGgzMnM2NWFudWZuNTV6Zmd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+
 
 Hey there! I'm Anri — a self-taught and passionate beginner frontend web developer from Georgia 🇬🇪.
 
