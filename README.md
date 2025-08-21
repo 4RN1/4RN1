@@ -1,5 +1,5 @@
 
-<img src="https://pacman.abozanona.me?username=4RN1" />
+
 
 <h1><b>Hi there, I'm </b><a href="https://github.com/4RN1">4RN1</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"></h1>
 <br>
@@ -22,12 +22,12 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 <br> 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5nYWRvc3kydjQ1MzIwcWtpc2d0ZDY2Z3hnODhvczJnN3AxczRncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" alt="phone" width="40">***Social Links*** -->
+
+
+
+***Social Links*** -->
 
 <div align="center">
 
@@ -43,8 +43,8 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ ***Skills***
+
 
 
 
@@ -67,8 +67,8 @@ I'm here to build, break, learn, and grow 💻🌱
 
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+***Github Stats***
+
 <br>
 <p align="center">
 <table align="center">
@@ -95,5 +95,5 @@ I'm here to build, break, learn, and grow 💻🌱
 <br>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
