@@ -83,11 +83,10 @@ I'm here to build, break, learn, and grow 💻🌱
 </tr>
 </table>
 
-<div align="center" >
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=4RN1&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-    </div>   
+
+  ![](https://github-trophies.vercel.app/?username=4RN1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+  
 </p>
 
 
