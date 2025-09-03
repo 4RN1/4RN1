@@ -12,9 +12,11 @@
 👋 Hi, I'm Anri  
 
 💻 Junior **Frontend Web Developer** from Georgia 🇬🇪  
-⚡ I use **Tailwind CSS** daily  
+⚡ Started using  **Tailwind CSS**   
 ⚛️ Currently learning **React**  
-🚀 Future goals: **Next.js** & **Flutter**  
+🚀 Main Goal: Become software Developer 
+🧠Future goals: **Next.js** & **Flutter**  
+
 
 ## 🛠 Tech Stack  
 
