@@ -13,9 +13,9 @@
 
 💻 Junior **Frontend Web Developer** from Georgia 🇬🇪  
 ⚡ Started using  **Tailwind CSS**   
-⚛️ Currently learning **React**  
+⚛️ Currently learning **Next JS**  
 🚀 Main Goal: Become software Developer 
-🧠Future goals: **Next.js** & **Flutter**  
+
 
 
 ## 🛠 Tech Stack  
