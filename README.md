@@ -7,8 +7,7 @@
 
 👋 Hi, I'm Anri  
 
-💻 Junior **Frontend Web Developer** from Georgia 🇬🇪  
-⚡ Started using  **Tailwind CSS**   
+💻 **Frontend Web Developer** from Georgia 🇬🇪    
 ⚛️ Currently learning **Next JS**  
 
 
