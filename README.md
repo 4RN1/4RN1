@@ -7,8 +7,8 @@
 
 👋 Hi, I'm Anri  
 
-💻 **Frontend Web Developer** from Georgia 🇬🇪    
-⚛️ Currently learning **Next JS**  
+💻 **Web Developer**  
+
 
 
 🌱 _Learning by building. Every project is progress._
